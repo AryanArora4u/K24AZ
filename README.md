@@ -1,8 +1,8 @@
 <html>
   <head>
-   <title> K24AZ </title>
+   K24AZ
   </head>
   <body>
-    <h1>this is my demo report</h1>
+    <h1>This is my demo report</h1>
   </body>
 </html>
